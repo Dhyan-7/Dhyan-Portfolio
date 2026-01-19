@@ -122,8 +122,8 @@ const Projects = () => {
                 title="Atom AI Assistant"
                 img={project1}
                 summary="ATOM is a voice-activated AI assistant inspired by futuristic systems like those in Real Steel and the Marvel Universe. Built with PyQt5, it integrates speech recognition, NLP, and automation to handle tasks like app control, web searches, and real-time query responses through a sleek, sci-fi-inspired GUI. Designed for adaptability, ATOM offers a customizable, privacy-conscious alternative to commercial assistants, combining functionality with a dynamic personality."
-                link="https://github.com/Dhyan0007/ATOM-AI-Assistant"
-                github="https://github.com/Dhyan0007"
+                link="https://github.com/Dhyan-7/ATOM-AI-Assistant"
+                github="https://github.com/Dhyan-7"
                 type="Featured Project"
               />
             </div>
@@ -132,8 +132,8 @@ const Projects = () => {
                 title="IoT On Fire Alerting System"
                 img={project2}
                 summary="This system leverages IoT technology to provide early fire detection and real-time alerts without the need for internet connectivity. Utilizing an Arduino Uno, SIM900A GSM module, and fire sensors, it sends SMS and automated calls to designated responders when a fire is detected. Designed for affordability and reliability, the system is suitable for remote areas and varied settings like homes, offices, warehouses, and agricultural zones. Its standalone, GSM-based approach ensures rapid response, reducing fire-related damage and enhancing safety. Expandable with additional sensors, it offers a scalable, low-maintenance solution for modern fire alerting needs."
-                link="https://github.com/Dhyan0007/IOT-on-Fire-Alerting-System"
-                github="https://github.com/Dhyan0007"
+                link="https://github.com/Dhyan-7/IOT-on-Fire-Alerting-System"
+                github="https://github.com/Dhyan-7"
                 type="Featured Project"
               />
             </div>
@@ -142,8 +142,8 @@ const Projects = () => {
                 title="Milk Dairy Management"
                 img={project3}
                 summary="This project is a comprehensive web-based platform designed to streamline the operations of milk distributors and dairy managers. It enables efficient tracking of daily transactions, including supplier and buyer details, purchases, sales, and feed management. Built for scalability, the system empowers administrators to control multiple dairies, prevent overproduction, and maintain seamless dairy reports. Developed as a pilot for a new milk distribution center, the platform supports future expansion and customization for various distributors. By simplifying operations, it aims to modernize and encourage growth in the dairy industry."
-                link="https://github.com/Dhyan0007/Milk-Dairy-Management"
-                github="https://github.com/Dhyan0007"
+                link="https://github.com/Dhyan-7/Milk-Dairy-Management"
+                github="https://github.com/Dhyan-7"
                 type="Featured Project"
               />
             </div>
@@ -152,8 +152,8 @@ const Projects = () => {
                 title="Catch A Copy"
                 img={project4}
                 summary="This project addresses inefficiencies in traditional printing services by introducing a remote, online printing system tailored to academic and business needs. Designed for speed and convenience, the system enables users to submit documents for printing remotely, reducing time costs. It optimizes printer operations by batching similar print jobs, lowering operational time and costs. Additionally, the system records detailed data, including document overviews, user profiles, and overall printing trends, providing valuable insights for market prediction and analysis. This solution modernizes print services, ensuring efficiency, scalability, and enhanced user experience."
-                link="https://github.com/Dhyan0007/CAC"
-                github="https://github.com/Dhyan0007"
+                link="https://github.com/Dhyan-7/CAC"
+                github="https://github.com/Dhyan-7"
                 type="Featured Project"
               />
             </div>
@@ -162,8 +162,8 @@ const Projects = () => {
                 title="Resume Builder"
                 img={project5}
                 summary="This app provides an intuitive platform for candidates to create professional resumes seamlessly. Users can input all necessary details, such as personal information, education, skills, experience, and projects, through a user-friendly React interface. The app dynamically generates a polished resume using pre-designed templates, allowing real-time previews. Once complete, the resume is ready for download as a high-quality PDF. Designed for efficiency and customization, the app simplifies the resume creation process for students, professionals, and job seekers."
-                link="https://github.com/Dhyan0007/Resume-Builder"
-                github="https://github.com/Dhyan0007"
+                link="https://github.com/Dhyan-7/Resume-Builder"
+                github="https://github.com/Dhyan-7"
                 type="Featured Project"
               />
             </div>
@@ -172,8 +172,8 @@ const Projects = () => {
                 title="Student Record System"
                 img={project6}
                 summary="A robust and secure web-based application built with Django to manage student records efficiently. This system enables administrators to add, delete, and modify student details, including personal information, academic records, and contact details. Featuring a secure login for administrators, it ensures data privacy and restricted access. Designed for scalability, the system is ideal for colleges and educational institutions to streamline student data management while maintaining accuracy and security."
-                link="https://github.com/Dhyan0007/Student-Record-System-Django"
-                github="https://github.com/Dhyan0007"
+                link="https://github.com/Dhyan-7/Student-Record-System-Django"
+                github="https://github.com/Dhyan-7"
                 type="Featured Project"
               />
             </div>
@@ -182,8 +182,8 @@ const Projects = () => {
                 title="Color Detection"
                 img={project7}
                 summary="This project simplifies color identification by recognizing the name of a color based on mouse clicks. With over 16 million possible RGB color combinations, remembering color names is challenging. This tool identifies the exact color of a clicked pixel and displays its name, providing an intuitive way to explore and match colors. It's ideal for designers, developers, and anyone working with digital visuals."
-                link="https://github.com/Dhyan0007/Color-Detection"
-                github="https://github.com/Dhyan0007"
+                link="https://github.com/Dhyan-7/Color-Detection"
+                github="https://github.com/Dhyan-7"
                 type="Featured Project"
               />
             </div>

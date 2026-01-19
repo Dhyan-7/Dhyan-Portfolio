@@ -77,9 +77,9 @@ const ScrollToTopButton = () => {
 const Experience = () => {
   const experiences = [
     {
-      role: "HPC & AI Intern",
+      role: "Software Engineering Intern (Project Intern)",
       company: "Aikshetra Tech Solutions Private Limited",
-      duration: "July 2025 - Present",
+      duration: "July 2025 - Jan 2026",
       description: "working on high-performance computing, AI research, and hands-on projects involving system performance, optimization, and automation.",
       skills: ["HPC", "AI/ML", "Python", "Linux & Shell Scripting", "AWS", "Networking "]
     },
